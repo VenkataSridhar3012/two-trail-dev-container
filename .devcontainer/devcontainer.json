@@ -5,6 +5,6 @@
     "dbaeumer.vscode-eslint"
   ],
   "forwardPorts": [3000, 8080],
-  "postCreateCommand": "npm install",
+  "postCreateCommand": "cd two-V2 && npm install",
   "appPort": 3000
 }
