@@ -1,0 +1,10 @@
+// {
+  "name": "React App",
+  "image": "node:16",
+  "extensions": [
+    "dbaeumer.vscode-eslint"
+  ],
+  "forwardPorts": [3000, 8080],
+  "postCreateCommand": "npm install",
+  "appPort": 3000
+}
